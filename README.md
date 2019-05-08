@@ -1,6 +1,6 @@
 # Angularjs Crud Operations
 
-This is a simple application focussed to display the crud Operations using Angularjs
+This is a simple application focussed to display the crud Operations using Angularjs1.x
 
 The Application shall enable you to:
 
